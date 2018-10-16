@@ -1,0 +1,34 @@
+/* Fichier style pour exercice avec Bootstrap */
+article{
+    height: auto;
+}
+
+.taille{
+    width: 100%;
+    height: 330px;
+}
+
+figure{  
+    box-shadow: 2px 2px 5px grey;
+}
+
+figcaption h2{
+    font-family: Roboto;
+    font-size: 2em;
+}
+
+a{
+    display: strong;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-decoration: none;  
+    color: purple;
+}
+
+li{
+    list-style-type: none;
+    color: purple;
+    font-size : 2em;
+}
+
+
